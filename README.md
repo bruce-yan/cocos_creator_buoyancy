@@ -1,5 +1,6 @@
 # cocos creator 2.3.4 水浮力
 这是一个浮力的Demo
+
 注意事项
 1. 水和入水的物体必须有cc.PhysicsPolygonCollider
 2. 必须将水的cc.PhysicsPolygonCollider设置为传咸器
