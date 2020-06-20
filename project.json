@@ -1,0 +1,9 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.3.4",
+  "name": "TestWater",
+  "uuid": "0f4ed191-da54-4c2f-a167-744cdfef98b3",
+  "id": "14cfa7d0-161e-409d-863e-1e097ce00e4b",
+  "isNew": false
+}
