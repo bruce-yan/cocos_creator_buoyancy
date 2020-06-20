@@ -10,3 +10,4 @@
 
 ## 该事例参考了
 * http://www.iforce2d.net/b2dtut/buoyancy
+* https://forum.cocos.org/t/1-5/45714
